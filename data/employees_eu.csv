@@ -1,0 +1,10 @@
+emp_id;full_name;mail;division;wage;dob;sex;nation
+101;Ingrid Hansen;ingrid@corp.de;IT;82000;15/04/1991;female;Germany
+102;Jacques Dupont;j.dupont@corp.fr;Finance;91000;22/08/1987;male;France
+103;Layla Ahmed;layla@corp.ae;HR;-;03/12/1994;f;UAE
+104;Marco Rossi;marco@corp.it;Sales;74000;09/05/1989;m;Italy
+104;Marco Rossi;marco@corp.it;Sales;74000;09/05/1989;m;Italy
+105;Nina Petrov;nina@corp.bg;IT;67000;18/03/1996;female;Bulgaria
+106;Oscar Svensson;oscar@corp.se;Finance;n/a;27/07/1982;male;Sweden
+107;Alice Johnson;alice@co.com;Sales;72000;15/04/1990;F;USA
+108;Priya Sharma;priya@corp.in;IT;59000;11/11/1993;Female;India

@@ -1,0 +1,11 @@
+EMP_ID,FirstName,LastName,EmailAddress,dept,Salary,DOB,gender,country
+001,Alice,Johnson,alice@co.com,Sales,72000,1990-04-15,F,USA
+002,Bob  ,Smith,BOB@CO.COM,IT,95000,1985-11-02,male,usa
+003,Carol,White,carol@co.com,HR,N/A,1992-07-23,Female,United States
+004,David,Brown,N/A,Sales,68000,1988-01-30,m,US
+005,Eve,Davis,eve@co.com,Finance,110000,1995-03-12,f,USA
+002,Bob  ,Smith,BOB@CO.COM,IT,95000,1985-11-02,male,usa
+,,,,,,,,
+006,Frank,Miller,frank@co.com,IT,88000,null,Man,United States
+007,Grace,Wilson,grace@co.com,HR,71500,1993-06-18,woman,USA
+008,Hank,Moore,hank@co.com,Finance,?,1980-09-05,male,USA
